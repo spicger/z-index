@@ -400,6 +400,8 @@ body {
 }
 
 
+
+
 .build-main-title {
     color: #100024;
     font-size: 48px;
@@ -450,7 +452,7 @@ body {
     width: 300px;
     height: 254px;
     border-radius: 8px 0px 0px 0px;
-    
+
 
 
 
@@ -462,7 +464,7 @@ body {
     width: 300px;
     height: 254px;
     border-radius: 8px 0px 0px 0px;
-    
+
 
 
 
@@ -474,7 +476,7 @@ body {
     width: 300px;
     height: 254px;
     border-radius: 8px 0px 0px 0px;
-    
+
 
 
 
@@ -486,7 +488,7 @@ body {
     width: 300px;
     height: 254px;
     border-radius: 8px 0px 0px 0px;
-    
+
 
 
 
@@ -510,14 +512,14 @@ body {
 }
 
 
-.build-right-box  {
-position: relative;
+.build-right-box {
+    position: relative;
 }
 
 
 .build-right-box img {
-    
-    
+
+
     position: absolute;
     top: 60px;
     right: -56px;
@@ -538,9 +540,74 @@ position: relative;
 
 .build-right-boxxer4 {
     z-index: 4;
-} 
+}
 
 
 
 
+.python {
+    margin-top: 200px;
+}
 
+.python-wrap {
+    background: #100024;
+    display: flex;
+    padding: 150px 46px;
+
+}
+
+.python-wrapper {
+    display: flex;
+    column-gap: 90px;
+    
+}
+
+
+.python-btn {
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 20px;
+    color: #413463;
+    background: #F2EBFF;
+    padding: 4px 12px;
+    border-radius: 6px;
+
+
+
+}
+
+.python-title {
+    font-size: 48px;
+    font-weight: 400;
+    line-height: 60px;
+    color: #FFFFFF;
+    max-width: 315px;
+    width: 100%;
+    margin-top: 26px;
+    margin-bottom: 27px;
+
+}
+
+
+.python-text {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #FFFFFF;
+    max-width: 457px;
+    width: 100%;
+    margin-bottom: 46px;
+
+
+}
+
+
+.python-subtitle {
+    text-decoration: none;
+    list-style: none;
+    font-size: 18px;
+    font-weight: 400;
+    color: #FFFFFF;
+
+
+}
