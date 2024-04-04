@@ -559,7 +559,7 @@ body {
 .python-wrapper {
     display: flex;
     column-gap: 90px;
-    
+
 }
 
 
@@ -608,6 +608,170 @@ body {
     font-size: 18px;
     font-weight: 400;
     color: #FFFFFF;
+
+
+}
+
+
+.story {
+    margin-top: 150px;
+    background: #F6F5F9;
+
+}
+
+.story-btn {
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 20px;
+    color: #3C4D89;
+    background: #E5EEFB;
+    padding: 4px 12px;
+    border-radius: 6px;
+    border: none;
+    cursor: pointer;
+    margin-top: 132px;
+
+
+
+}
+
+.story-title {
+    font-size: 48px;
+    font-weight: 400;
+    line-height: 60px;
+    color: #100024;
+    margin-top: 20px;
+
+
+}
+
+
+.story-main-wrapper {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 64px;
+}
+
+
+.story-boxxer {
+    background: #FFFFFF;
+    border: 1px solid #E2E2E8;
+    border-radius: 8px;
+
+}
+
+
+
+.story-text {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 28px;
+    color: #4B4B55;
+    padding-left: 33px;
+    padding-right: 39px;
+
+
+}
+
+.story-a {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #100024;
+    padding-left: 33px;
+
+
+}
+
+.story-box img {
+    padding-top: 34px;
+    margin-bottom: 34px;
+    padding-left: 33px;
+}
+
+
+.story-text {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 28px;
+    color: #4B4B55;
+    padding-left: 33px;
+    padding-right: 39px;
+
+
+}
+
+
+
+.story-text {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 28px;
+    color: #4B4B55;
+    padding-left: 33px;
+    padding-right: 39px;
+
+
+}
+
+
+.story-backround {
+    background: url(../img/story-back.png);
+    padding: 48px;
+    margin-top: 128px;
+}
+
+.back-title {
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 44px;
+    color: #100024;
+
+
+}
+
+.back-text {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 28px;
+    color: #100024;
+    margin-top: 8px;
+    margin-bottom: 48px;
+
+}
+
+.back-btns {
+    column-gap: 16px;
+    display: flex;
+    
+}
+
+.back-btn {
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    color: #FFFFFF;
+    background: #100024;
+    padding: 16px 53px 16px 24px;
+    border-radius: 8px;
+    cursor: pointer;
+    margin-bottom: 30px;
+
+
+}
+
+.back-btn2 {
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    color: #100024;
+    background: #FFFFFF;
+    cursor: pointer;
+    padding: 16px 33px;
+    border-radius: 8px;
+    border: none;
+    margin-bottom: 30px;
+
 
 
 }
