@@ -104,6 +104,7 @@
         flex-wrap: wrap !important;
         justify-content: center !important;
         row-gap: 10px !important;
+
     }
 
     .build-right-box img {
@@ -137,6 +138,77 @@
     }
 
 
+    .python-wrapper {
+        display: flex !important;
+        flex-direction: column !important;
+        row-gap: 20px !important;
+    }
+
+    .build-right-box img {
+        width: 100% !important;
+
+    }
+
+    .build-boxxer {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .build-text,
+    .build-subtitle {
+        text-align: center;
+    }
+
+    .build-btn2 {
+        justify-content: center;
+        display: flex;
+    }
+
+    .future-boxxer {
+        display: flex !important;
+        flex-direction: column !important;
+    }
+
+    .future-box {
+        display: flex !important;
+        flex-direction: column !important;
+        row-gap: 10px;
+
+    }
+
+    .future-title,
+    .future-text {
+        text-align: center;
+    }
+
+
+    .footer-bottom-section {
+        display: flex;
+        column-gap: 20px;
+    }
+
+    .footer-title-wrapper {
+        display: flex !important;
+        flex-direction: column !important;
+        justify-content: center !important;
+        row-gap: 20px;
+    }
+
+
+    .footer-a-wrap {
+        display: flex;
+        justify-content: center;
+
+    }
+
+    .footer-textt {
+        display: flex;
+        justify-content: center;
+    }
+
+
+
+
 
 
 }
@@ -146,6 +218,14 @@
         width: 100%;
 
     }
+
+    .schedule-wrapper {
+        display: flex;
+        flex-direction: column !important;
+        row-gap: 20px;
+    }
+
+
 
     .future-box {
         display: flex !important;
@@ -167,6 +247,20 @@
         display: flex !important;
         justify-content: center !important;
     }
+
+    .pyathon-right {
+        margin-top: 20px !important;
+        width: 100%;
+    }
+
+
+    .future-green-wrap {
+        display: flex !important;
+        justify-content: center;
+        padding: 0;
+    }
+
+    
 
     .build-right-box img {
         position: relative !important;
@@ -191,6 +285,7 @@
         align-items: center;
         row-gap: 10px;
     }
+
 
 
 
@@ -241,13 +336,14 @@
     .back-btns {
         display: flex !important;
         flex-direction: column !important;
+        row-gap: 20px;
     }
 
     .footer-main-section {
         display: grid !important;
         grid-template-columns: repeat(2, 1fr) !important;
         padding: 0 10px;
-        
+
     }
 
 
@@ -255,6 +351,8 @@
         display: flex;
         flex-direction: column;
         row-gap: 20px;
+
+
     }
 
     .footer-a {
@@ -269,12 +367,12 @@
     .footer-bottom-section {
         display: flex;
         flex-direction: column;
+        row-gap: 20px;
+
+      
 
     }
 
-    .python-title {
-        text-align: center;
-    }
 
     .future-section {
         padding: 0 !important;
@@ -296,24 +394,72 @@
         padding: 5px 5px !important;
     }
 
-     
+    .python-text {
+        text-align: center;
+    }
+
+    .python-title {
+        text-align: center !important;
+        
+
+    }
+
+    .python-btn-wrap {
+        display: flex;
+        justify-content: center;
+    }
+
+    .python-subtitle-wrap {
+        display: flex;
+        justify-content: center;
+
+    }
+
+    .footer-bottom-aaa {
+        text-align: center !important;
+    }
+
+    .footer-bottom-aa-wrap {
+        display: flex;
+        justify-content: center;
+    }
+
+    .pyathon-right {
+        width: 100%;
+    }
 
     
+    .python-right-imgg {
+        width: 100%;
+    }  
+    
+
+    .build-bottom-wrapper {
+        display: flex;
+        flex-direction: column;
+        row-gap: 20px;
+    }
 
 
+    .schedule-title {
+        font-size: 45px;
+    }
 
+    .schedule-second-wrap .schedule-second-text3 {
+        padding-right: 123px;
+    }
 
+    .schedule-second-wrap .schedule-second-text1 {
+        padding-right: 107px;
 
+}
 
+.build-box {
+    padding: 0;
+}
 
-
-
-
-
-
-
-
-
-
+.sell-text {
+    font-size: 13px !important;
+}
 
 }
